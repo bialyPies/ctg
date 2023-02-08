@@ -11,5 +11,6 @@ public class Main {
         System.out.println("develop 3");
         System.out.println("develop 4");
         System.out.println("release/1.0 1");
+        System.out.println("release/1.0 2");
     }
 }
