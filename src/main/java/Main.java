@@ -7,6 +7,7 @@ public class Main {
     static public void feature3(){
         System.out.println("feature3 step 1");
         System.out.println("feature3 step 2");
+        System.out.println("feature3 step 3");
     }
     public static void main(String[] args) {
         System.out.println("Hello world! Let's pretend there was a bug here and I've fixed it =)");
