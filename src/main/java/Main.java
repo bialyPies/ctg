@@ -4,6 +4,7 @@ public class Main {
         System.out.println("feature2 step 1");
         System.out.println("feature2 step 2");
         System.out.println("feature2 step 3");
+        System.out.println("feature2 step 4");
     }
     public static void main(String[] args) {
         System.out.println("Hello world!");
